@@ -55,7 +55,7 @@ To use the Code Conversion, Debugging, and Quality Check Application:
 - User Interface Design: Responsive and user-friendly UI/UX design for optimal user experience.
 
 ## Some Snippets 
+<img width="947" alt="UI (1)" src="https://github.com/Mohsin013/code-converter/assets/97525190/8b553ee8-8a20-40bc-b283-7b584ca1a7b0">
+<img width="938" alt="DEBUG (1)" src="https://github.com/Mohsin013/code-converter/assets/97525190/fb5d8925-cc6c-49a3-bba8-21cbc0b933fd">
+<img width="943" alt="Quality_check (1)" src="https://github.com/Mohsin013/code-converter/assets/97525190/f3860d7c-2add-4242-bf8c-c5e881e74a01">
 
-![UI.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7d32b4a6-9f35-4996-873f-210a48b1783a/UI.png)
-![DEBUG.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/687a8b82-cf63-42bc-b1d9-1ee12413bf09/DEBUG.png)
-![Quality_check.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/35bfb6d5-78bf-4068-a101-085bc78fabed/Quality_check.png)
