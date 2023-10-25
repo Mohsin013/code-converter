@@ -33,7 +33,7 @@ function App() {
     setCode(editorRef.current.getValue())
     // console.log(code,editorRef.current.getValue())
     try {
-      const response = await fetch('http://localhost:5000/convert', {
+      const response = await fetch('https://code-converter-tjsx.onrender.com/convert', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -54,7 +54,7 @@ function App() {
     setConvertedCode("Oh, don't worry, I'll do your work, debugging this flawless code... Not like I have better things to do!");
     setCode(editorRef.current.getValue())
     try {
-      const response = await fetch('http://localhost:5000/debug', {
+      const response = await fetch('https://code-converter-tjsx.onrender.com/debug', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -73,7 +73,7 @@ function App() {
     setCode(editorRef.current.getValue())
     setConvertedCode( "Checking the code quality... I'm sure it's already top-notch, but I'll still have a look for the fun of it!")
     try {
-      const response = await fetch('http://localhost:5000/check', {
+      const response = await fetch('https://code-converter-tjsx.onrender.com/check', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
