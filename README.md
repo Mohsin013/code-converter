@@ -22,14 +22,15 @@ To install and run the Code Conversion, Debugging, and Quality Check Application
  
  For frontend:
 1. Navigate to the project folder: `cd code-converter-app`
-4. Install dependencies: `npm install`
-5. Start the application: `npm start`
+2. Install dependencies: `npm install`
+3. Start the application: `npm start`
 The application will be accessible at `http://localhost:3000/`.
 
 For Backend:
 1. Navigate to the project folder: `cd code-translator`
-4. Install dependencies: `npm install`
-5. Start the application: `npm run dev`
+2.  Create a `.env` file in the root of the project and add your OpenAI API key as follows: OPENAI_API_KEY : `your-api-key`
+3. Install dependencies: `npm install`
+4. Start the application: `npm run dev`
 The application will be accessible at `http://localhost:5000/`.
 
 ## Usage
